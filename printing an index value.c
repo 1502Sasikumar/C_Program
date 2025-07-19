@@ -16,6 +16,8 @@ int main()
         
     }
     if(c[i]==str)
-    printf("%d",i);
+        printf("%d",i);
+    else
+        printf("Not Found.\n");
 }
     
